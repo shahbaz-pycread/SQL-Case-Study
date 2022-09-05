@@ -6,6 +6,7 @@ This is the part of the 8 week SQL Challenge created by Danny Ma. Learn more abo
 
 
 
+
 ![This is an image](https://8weeksqlchallenge.com/images/case-study-designs/1.png)
 
 ## INTRODUCTION
